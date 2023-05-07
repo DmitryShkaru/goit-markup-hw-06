@@ -447,8 +447,7 @@ body {
 }
 .footer-title {
 }
-.subscribe-contain {
-}
+
 .footer-form {
   display: flex;
   gap: 24px;
@@ -496,13 +495,6 @@ body {
 .footer-btn:hover,
 .footer-btn:focus {
   background-color: var(--color-ocean);
-}
-.subscribe-icon {
-  position: absolute;
-  top: 50%;
-  right: 24px;
-
-  transform: translateY(-50%);
 }
 /**
   |============================
@@ -749,7 +741,6 @@ body {
   display: flex;
   gap: 8px;
   align-items: center;
-  justify-content: center;
   margin-bottom: 24px;
 }
 .modal-form-checkbox {
